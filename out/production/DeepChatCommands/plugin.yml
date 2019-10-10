@@ -1,0 +1,4 @@
+name: DeepChatCommands
+version: 1.0.0
+main: pt.intellijente.deepchat.Main
+author: IntelliJente

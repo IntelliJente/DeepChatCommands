@@ -1,0 +1,13 @@
+Commands:
+  1:
+    command: '/gamersboard'
+    message:
+      - ''
+      - '&2É o segundo plugin hoje'
+      - ''
+  2:
+    command: "/gamersboard2"
+    message:
+      - ''
+      - '&3Não tenho vida'
+      - ''
